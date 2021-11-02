@@ -1,0 +1,9 @@
+{
+    "name": "abg.unity-loop-system",
+    "displayName": "Unity Loop System",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "Fast unity player loop event subscriptions",
+    "license": "MIT",
+    "dependencies": {}
+}
